@@ -7,7 +7,9 @@
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
 
-This repository contains the projects developed during the IBM Data Science Professional Certificate.
+##
+
+## This repository contains the projects developed during the IBM Data Science Professional Certificate.
 
 ### About the Specialization:
 
@@ -25,6 +27,8 @@ This repository contains the projects developed during the IBM Data Science Prof
 - [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
 
 ---
+
+## Projects:
 
 ## [Stock Market Data Analysis](https://github.com/marcoshsq/Stocks_Market_Data_Analysis/tree/main/01%20-%20Extracting%20and%20Visualizing%20Stock%20Data).
 
