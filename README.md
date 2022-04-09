@@ -40,6 +40,10 @@ For the development of the project the following libraries were used: pandas, re
 
 Project developed during module 06/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as Cloud Databases, Python Programming, Ipython, Relational Database Management System, SQL statements and etc., in addition to laboratories and activities, we ended with this project. The objective of the project was to create a table using IBM Db2 SQL, after filling the table with data from three CSV files about the city of Chicago, we performed an analysis using Python in a Jupyter Notebook.
 
+## []().
+
+Project developed during module 07/10 of the course, the project scenario is: "You are a Data Analyst working at a Real Estate Investment Trust. The Trust will like to start investing in Residential real estate. You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on."
+
 ##
 
 
