@@ -46,6 +46,13 @@ Project developed during module 07/10 of the course, the project scenario is: "Y
 
 For the development of the project the following libraries were used: pandas, matplotlib, numpy, seaborn and scikit-learn.
 
+## [Dashboard about Airline Performance](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/04%20-%20Development%20of%20a%20Dashboard%20about%20Airline%20Performance).
+
+Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM, unfortunately, I couldn't use the tool for technical reasons, so instead, I used the Google Colaboratory notebook. However, this implies that my code will be slightly different from the one expected in the labs of the course, I've used a different library to create e.g. jupyter_dash. But the result was fine, and I pretty much enjoyed it! (ﾉ◕ヮ◕)ﾉ
+
+## []().
+
+## []().
 
 ##
 
