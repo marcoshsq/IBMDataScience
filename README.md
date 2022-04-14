@@ -66,8 +66,6 @@ Four machine learning models were produced during the project: Logistic Regressi
 
 Thanks to the instructors, and a huge shout-out to the people on Coursera.
 
-(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
-
 ##
 
-
+(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
