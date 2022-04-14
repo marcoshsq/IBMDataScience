@@ -62,7 +62,7 @@ Now we (the Data Scientist ヽ(^◇^*)/), need to develop a analysis to predict 
 
 Collect data from public SpaceX API and SpaceX Wikipedia page. Explore data using SQL,  visualization, Folium maps, and dashboards. Gather relevant columns to be used as features. Change all categorical variables to binary using one-hot encoding.  Standardize data and use Grid Search CV to find the best parameters for machine learning models. And visualizing the accuracy score of all models.
 
-Four machine learning models were produced during the project: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors. All produced similar results, with an accuracy rate of about 83.33%. All models overpredicted successful landings. Anyways, was a fun project to do, but most important, it's was my first step in this data journey, and as the saying goes: Greatness in small beginning! 
+Four machine learning models were produced during the project: Logistic Regression, Support Vector Machine, Decision Tree Classifier, and K Nearest Neighbors. All produced similar results, with an accuracy rate of about 83.33%. All models overpredicted successful landings. Anyways, was a fun project to do, but most important, it's was my first step in this data journey, and as the saying goes: Greatness in small beginnings! 
 
 Thanks to the instructors, and a huge shout-out to the people on Coursera.
 
