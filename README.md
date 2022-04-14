@@ -50,6 +50,10 @@ For the development of the project the following libraries were used: pandas, ma
 
 Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM, unfortunately, I couldn't use the tool for technical reasons, so instead, I used the Google Colaboratory notebook. However, this implies that my code will be slightly different from the one expected in the labs of the course, I've used a different library to create e.g. jupyter_dash. But the result was fine, and I pretty much enjoyed it! (ﾉ◕ヮ◕)ﾉ
 
+## []().
+
+## []().
+
 ##
 
 
