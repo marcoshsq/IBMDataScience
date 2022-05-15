@@ -1,8 +1,11 @@
-# IBM: Data Science Certificate Projects
-
-<div align="center">
-<img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="250" width="250">
+<p align="center">
+  <a href="https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects">
+    <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="250" width="250">
+  </a>
+</p>
+  <h1 align="center">IBM: Data Science Certificate Projects</h1>
 </div>
+<br>
 
 ![IBM](http://i.imgur.com/Qktqnu1.png) INSTRUCTORS
 #### Instructors: Rav Ahuja, Alex Aklson, Aije Egwaikhide, Svetlana Levitan, Romeo Kienzler, Polong Lin, Joseph Santarcangelo, Azim Hirjani, Hima Vasudevan, Saishruthi Swaminathan, Saeed Aghabozorgi, Yan Luo 
