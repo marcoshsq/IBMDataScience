@@ -95,10 +95,4 @@ Thanks to the instructors, and a huge shout-out to the people on Coursera.
 
 ##
 
-<p align="center">
-  <a href="https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects">
-    <img src="https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/blob/main/Course%20Certificates/IBM%20Data%20Science.pdf" alt="Smiley face" width="1200">
-  </a>
-</p>
-
 (ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
