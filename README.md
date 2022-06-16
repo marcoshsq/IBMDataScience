@@ -39,9 +39,13 @@ Project developed during module 05/10 of the IBM Data Science Professional Certi
 
 For the development of the project the following libraries were used: pandas, requests, bs4, html5lib, lxml, plotly, bs4, BeautifulSoup, yfinance.
 
+##
+
 ### [Analyzing Data Using SQL and Python](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/02%20-%20Analyzing%20Data%20Using%20SQL%20and%20Python).
 
 Project developed during module 06/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as Cloud Databases, Python Programming, Ipython, Relational Database Management System, SQL statements and etc., in addition to laboratories and activities, we ended with this project. The objective of the project was to create a table using IBM Db2 SQL, after filling the table with data from three CSV files about the city of Chicago, we performed an analysis using Python in a Jupyter Notebook.
+
+##
 
 ### [House Sales Analysis with Scikit-Learn](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/03%20-%20House%20Sales%20Analysis%20with%20Scikit-Learn).
 
@@ -49,13 +53,19 @@ Project developed during module 07/10 of the course, the project scenario is: "Y
 
 For the development of the project the following libraries were used: pandas, matplotlib, numpy, seaborn and scikit-learn.
 
+##
+
 ### [US Domestic Airline Flights Performance Dashboard](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/04%20-%20Development%20of%20a%20Dashboard%20about%20Airline%20Performance).
 
 Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM, unfortunately, I couldn't use the tool for technical reasons, so instead, I used the Google Colaboratory notebook. However, this implies that my code will be slightly different from the one expected in the labs of the course, I've used a different library to create e.g. jupyter_dash. But the result was fine, and I pretty much enjoyed it! (ﾉ◕ヮ◕)ﾉ
 
+##
+
 ### [Best Classifier Model](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/05%20-%20Machine%20Learning%20with%20Python).
 
 Project developed during module 09/10 of the course, we used a dataset about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. the goal was to practice all the classification algorithms thaught in the course. 
+
+##
 
 ### [Capstone Project](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/06%20-%20Capstone%20Project).
 
