@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects">
-    <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="250" width="250">
+    <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="150" width="300"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="150" width="150">
   </a>
 </p>
-  <h1 align="center">IBM: Data Science Certificate Projects</h1>
+  <h2 align="center">IBM: Data Science Certificate Projects</h2>
 </div>
 <br>
 
@@ -12,7 +12,7 @@
 
 ##
 
-## This repository contains the projects developed during the IBM Data Science Professional Certificate.
+This repository contains the projects developed during the IBM Data Science Professional Certificate.
 
 ### About the Specialization:
 
@@ -29,59 +29,35 @@
 09. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ibm-data-science)
 10. [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone?specialization=ibm-data-science)
 
-## 🛠️ Tools
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/84391594/152705364-f16bb223-41aa-4510-8113-51171dfe9953.png" height="55">
-  <img src="https://user-images.githubusercontent.com/84391594/152705271-083f8784-b3c9-4065-9733-ea3fa8ad5a7a.png" height="55">
-  <img src="https://user-images.githubusercontent.com/84391594/152705273-adffe1bf-b509-44d0-b3ac-671cce5071df.svg" height="55">
-  <img src="https://user-images.githubusercontent.com/84391594/152705324-68f777a0-3875-4b65-ae96-646643284541.png" height="55">
-  <img src="https://user-images.githubusercontent.com/84391594/152705298-bb170d32-3dd0-4ad4-8221-8b7b029116b4.png" height="55">
-</p>
-
-
-## 📖 Libraries
-
-<p align="left">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706130-5577011e-ecb3-47aa-af73-f6bd1bda05bc.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706132-5939da7e-7d1e-43b8-9c46-2d3fe5198dda.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706135-85cdd35e-922a-414a-a198-c670fbf8fb25.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
-</p>
-
 ---
 
 ## Projects:
 
-## [Stock Market Data Analysis](https://github.com/marcoshsq/Stocks_Market_Data_Analysis/tree/main/01%20-%20Extracting%20and%20Visualizing%20Stock%20Data).
+### [Stock Market Data Analysis](https://github.com/marcoshsq/Stocks_Market_Data_Analysis/tree/main/01%20-%20Extracting%20and%20Visualizing%20Stock%20Data).
 
 Project developed during module 05/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as web scraping and libraries were reviewed, in addition to laboratories and activities, we ended with this project. The objective of the project was to collect data to later develop a dashboard. 
 
 For the development of the project the following libraries were used: pandas, requests, bs4, html5lib, lxml, plotly, bs4, BeautifulSoup, yfinance.
 
-## [Analyzing Data Using SQL and Python](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/02%20-%20Analyzing%20Data%20Using%20SQL%20and%20Python).
+### [Analyzing Data Using SQL and Python](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/02%20-%20Analyzing%20Data%20Using%20SQL%20and%20Python).
 
 Project developed during module 06/10 of the IBM Data Science Professional Certificate Specialization. During the course, subjects such as Cloud Databases, Python Programming, Ipython, Relational Database Management System, SQL statements and etc., in addition to laboratories and activities, we ended with this project. The objective of the project was to create a table using IBM Db2 SQL, after filling the table with data from three CSV files about the city of Chicago, we performed an analysis using Python in a Jupyter Notebook.
 
-## [House Sales Analysis with Scikit-Learn](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/03%20-%20House%20Sales%20Analysis%20with%20Scikit-Learn).
+### [House Sales Analysis with Scikit-Learn](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/03%20-%20House%20Sales%20Analysis%20with%20Scikit-Learn).
 
 Project developed during module 07/10 of the course, the project scenario is: "You are a Data Analyst working at a Real Estate Investment Trust. The Trust will like to start investing in Residential real estate. You are tasked with determining the market price of a house given a set of features. You will analyze and predict housing prices using attributes or features such as square footage, number of bedrooms, number of floors, and so on."
 
 For the development of the project the following libraries were used: pandas, matplotlib, numpy, seaborn and scikit-learn.
 
-## [US Domestic Airline Flights Performance Dashboard](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/04%20-%20Development%20of%20a%20Dashboard%20about%20Airline%20Performance).
+### [US Domestic Airline Flights Performance Dashboard](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/04%20-%20Development%20of%20a%20Dashboard%20about%20Airline%20Performance).
 
 Project developed during module 08/10 of the course, the goal was to build a dashboard using an internal tool provided by IBM, unfortunately, I couldn't use the tool for technical reasons, so instead, I used the Google Colaboratory notebook. However, this implies that my code will be slightly different from the one expected in the labs of the course, I've used a different library to create e.g. jupyter_dash. But the result was fine, and I pretty much enjoyed it! (ﾉ◕ヮ◕)ﾉ
 
-## [Best Classifier Model](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/05%20-%20Machine%20Learning%20with%20Python).
+### [Best Classifier Model](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/05%20-%20Machine%20Learning%20with%20Python).
 
 Project developed during module 09/10 of the course, we used a dataset about past loans. The Loan_train.csv data set includes details of 346 customers whose loan are already paid off or defaulted. the goal was to practice all the classification algorithms thaught in the course. 
 
-## [Capstone Project](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/06%20-%20Capstone%20Project).
+### [Capstone Project](https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects/tree/main/06%20-%20Capstone%20Project).
 
 This is it boys, the final and big one, the Capstone Project, the last course in the specialization, the scenario is: A company called SpaceY wants to compete with SpaceX, because of yes!
 
