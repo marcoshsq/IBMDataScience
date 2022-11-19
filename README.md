@@ -71,7 +71,7 @@ Project developed during module 09/10 of the course, we used a dataset about pas
 
 This is it boys, the final and big one, the Capstone Project, the last course in the specialization, the scenario is: A company called SpaceY wants to compete with SpaceX, because of yes!
 
-Now we (the Data Scientist ヽ(^◇^*)/), need to develop a analysis to predict the success of the operation.For this project we needed to:
+Now we (the Data Scientist need to develop a analysis to predict the success of the operation.For this project we needed to:
 
 Collect data from public SpaceX API and SpaceX Wikipedia page. Explore data using SQL,  visualization, Folium maps, and dashboards. Gather relevant columns to be used as features. Change all categorical variables to binary using one-hot encoding.  Standardize data and use Grid Search CV to find the best parameters for machine learning models. And visualizing the accuracy score of all models.
 
@@ -80,5 +80,3 @@ Four machine learning models were produced during the project: Logistic Regressi
 Thanks to the instructors, and a huge shout-out to the people on Coursera.
 
 ##
-
-(ﾉ◕ヮ◕)ﾉ (づ｡◕‿‿◕｡)づ (◕‿◕✿) ヽ(^◇^*)/
