@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/IBM_Data_Science_Certificate_Projects">
-    <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="150" width="300"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="150" width="150">
+    <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="150" width="300">
   </a>
 </p>
   <h2 align="center">IBM: Data Science Certificate Projects</h2>
